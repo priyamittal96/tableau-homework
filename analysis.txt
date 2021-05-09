@@ -1,0 +1,34 @@
+Key Details: 
+
+The following data for the New York Citi Bike Program used is dated from January 2021 to April 2021.  For each of the parameters please note: 
+- Bike location is determined by longitude and latitude
+- Timestamps are used for the start and stop times
+- Gender in the data is noted as 0 = Unknown; 1 = male; 2 = female
+
+In almost all cases of bike use, the increased usage can also be attributed to the increase in COVID vaccinations and reduced spread of the VIRUS in conjunction with more favorable weather conditions that encourage people to use such services. 
+
+1. Bike Start and Stop Locations
+
+When looking at the Bike Start and Stop locations throughout New York, it can be seen that the concentration of bike are throughout all of Manhattan, Brooklyn and even the lower Bronx. The only notable difference being drop-off or end locations for bikes being in Jersey City. 
+
+This can be indicative of a population of bike users that actually live in Jersey City and use the bikes to go back, compared to a train or traveling by car which could be crowded at various times of the day or inconvenient in the case of the car. 
+
+Alternatively, it can be noted that from January to April, the start locations of the bikes from further south and up north begin to expand outwards. Pulling in people from areas further away from the concentrate areas in Manhattan. 
+
+This is pretty on par with what is expected as a result of warmer weather and improved pandemic conditions, where people from further parts of New York will begin to use more bikes than public transport due to favorable weather conditions and as part of outdoor activities. 
+
+2. Bike Start and Stop by Days of the Week 
+
+When breaking down the start and stop times of bike usage by days of the week, interesting enough there is a peak mid-week, Tuesday and Wednesday, a drop and then an increase again Friday and Saturday on both of the graphs. 
+
+When looking at Friday and Saturday, it makes sense to have the numbers peak on the weekends where it's likely that locals or tourists are more likely to use the bikes and return them that same day as part of a day trip. 
+
+The peaks in the mid-week could be indicative of 3-day pass users or those with subscriptions to the bike services that may use it regularly for work. Mid-week users may also be using the bikes more often but for shorter times as well (quick lunch trips, meeting up for coffee, etc) compared to heavier leisure use on the weekends. 
+
+3. Gender counts overall and MoM
+
+When looking at the gender breakdown it should be noted that all people may not provide their gender or correctly input their gender. The ones noted are more likely from subscription programs or regular bike users rather than one-time or day-pass users that need to use the bikes quickly or on the go. 
+
+This can be reflected in the relative consistency of the male (1) and female (2) genders steady use and numbers throughout the four months. Where as unknown is instead increasing across each of the months, as expected with the warmer weather and increased favorable public health conditions. With increased day-pass or one-time users of the bike, it is likely that instead of taking the time to regularly input information they sign up enough to be able to ride. 
+
+Interestingly enough where gender may not play a heavy factor in determining a bike's usage. It is possible that women may be less likely to take public bikes than man based on the current demographic because of clothing choices that make it inconvenient (shoes, skirts, items in hand, etc) or overall safety concerns related to taking a bike versus public transport or walking especially in congested areas like downtown Manhattan.  
